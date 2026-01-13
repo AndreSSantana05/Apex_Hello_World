@@ -1,0 +1,2 @@
+String texto = 'Olá, Mundo!';
+System.debug(texto);

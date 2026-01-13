@@ -1,0 +1,2 @@
+String nome = 'André';
+System.debug('Olá, ' + nome + '! ' + 'Seja bem-vindo.');
